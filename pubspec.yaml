@@ -27,7 +27,7 @@ dependencies:
   flare_flutter:
     git: 
       url: git://github.com/2d-inc/Flare-Flutter.git
-      ref: 4aebb0ff5b98c7bcf2183c6bac8226cc7ddf5402
+      ref: dev
       path: flare_flutter
   auto_size_text: ^1.1.2
 
